@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuridiaPerez
 - 👀 I’m interested in videogames and Kpop
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send me an mail ;)
 
